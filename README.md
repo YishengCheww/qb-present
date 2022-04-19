@@ -1,5 +1,5 @@
 # qb-present - Like Nopixel
-Give New Player a present Box with item Like Nopixel
+**Give New Player a present Box with item Like Nopixel**
 
 # Framework Support:
 **This Script only support QB-CORE Framework If You Use Other Framework You Can Convert To Your Own**
@@ -19,3 +19,6 @@ Give New Player a present Box with item Like Nopixel
 
 # Next To Do:
 **Add Progressbar when opened**
+
+# recommand:
+https://github.com/tnj-development/tnj-notify  --this notification will more realistic the nopixel notify
