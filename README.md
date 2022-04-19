@@ -21,4 +21,4 @@
 **Add Progressbar when opened**
 
 # recommand:
-https://github.com/tnj-development/tnj-notify  --this notification will more realistic the nopixel notify
+https://github.com/tnj-development/tnj-notify  --this notification will more realistic like nopixel notify
