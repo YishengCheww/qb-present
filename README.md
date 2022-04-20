@@ -9,7 +9,7 @@
 
 # Install Tutorial:
 - **1.** go to `qb-inventory/html/images` put the box image to there.
-- **2. go to `qbcore/shared/main.lua line`  73 add:     `['present'] = { amount = 1, item = 'present' },`**
+- **2. go to `qbcore/shared/main.lua ` line  73 add:     `['present'] = { amount = 1, item = 'present' },`**
 -  **3.** go to your `qb-core/shared/items.lua` and add:     
 -  ` ["present"] 					 = {["name"] = "present", 			  			["label"] = "present box", 				["weight"] = 10, 		["type"] = "item", 		["image"] = "pr_box.png", 		    ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	["combinable"] = nil,   ["description"] = "Present box for new join player."},
 `
