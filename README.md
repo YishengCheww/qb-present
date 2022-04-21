@@ -19,7 +19,7 @@ https://streamable.com/wfx22d
 - **4.** If You Want to config what player can get after opened the item just go to `qb-present/server/main.lua` and add more or delete the 
 -      Player.Functions.AddItem('sandwich', 2) -- sandwich can be change to any item you want just add more and more if you need
 -      TriggerClientEvent('inventory:client:ItemBox', src, QBCore.Shared.Items['youritemname'] , "add")
-- 5.**dont forget to put that client to under**
+- 5. **dont forget to put that client to under**
 
 # Next To Do:
 **If anyone know how to trigger and add progressbar in client pls dm my discord: `ʏɪsʜᴇɴɢᴄʜᴇᴡ#0257` I Will Be Thankful**
