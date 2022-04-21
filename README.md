@@ -7,6 +7,9 @@
 # images
 ![box](https://i.imgur.com/zxsDgNT.png)
 
+# Showcase
+https://streamable.com/wfx22d
+
 # Install Tutorial:
 - **1.** go to `qb-inventory/html/images` put the box image to there.
 - **2. go to `qbcore/shared/main.lua ` line  73 add:     `['present'] = { amount = 1, item = 'present' },`**
