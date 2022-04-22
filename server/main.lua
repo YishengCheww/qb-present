@@ -19,7 +19,6 @@ QBCore.Functions.CreateUseableItem('present', function(source, item)
 	local src = source
     local Player = QBCore.Functions.GetPlayer(src)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
-
         TriggerEvent("openpresent", src, item.name)
     end
 end)
