@@ -2,7 +2,7 @@
 **Give New Player a present Box with item Like Nopixel**
 
 # Framework Support:
-**This Script only support QB-CORE Framework If You Use Other Framework You Can Convert To Your Own**
+**This Script only support QB-CORE Framework If You Use Other Framework You Can Convert YourSelf**
 
 # images
 ![box](https://i.imgur.com/zxsDgNT.png)
