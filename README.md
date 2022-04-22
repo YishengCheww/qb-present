@@ -24,5 +24,5 @@ https://streamable.com/wfx22d
 # Next To Do:
 **If anyone know how to trigger and add progressbar in client pls dm my discord: `ʏɪsʜᴇɴɢᴄʜᴇᴡ#0257` I Will Be Thankful**
 
-# recommand:
+# recommand :
 https://github.com/tnj-development/tnj-notify  --this notification will realistic like nopixel notify
